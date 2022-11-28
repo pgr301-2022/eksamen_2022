@@ -1,0 +1,3 @@
+Når du kjører plan- eller apply vil Terraform spørre deg om ditt studentnavn. Hvordan kan du sende variabelverdier 
+direkte i terraform kommandolinjen?
+
